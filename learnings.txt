@@ -1,0 +1,13 @@
+# things I didn't know
+
+1. creating a venv - conda create -p venv python=3.8 -y
+    activating venv - conda activate venv/
+
+
+# game plan
+1. Setup the github repository
+    a. new environment
+    b. create setup.py
+    c. create requirements.txt
+
+2. create src folder and build the package
