@@ -1,9 +1,13 @@
+dill
 numpy 
 pandas
-matplotlib
+xgboost
 seaborn 
-scikit-learn
+catboost
 streamlit
+matplotlib
+scikit-learn
 streamlit-option-menu
+
 
 -e .
